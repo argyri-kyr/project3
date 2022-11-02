@@ -15,8 +15,8 @@ def h():
 def t():
   print("t")
 
-  def r():
+def r():
     print("r")
   
-  def no():
+def no():
     print("no")
