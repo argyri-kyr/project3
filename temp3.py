@@ -21,5 +21,5 @@ def r():
 def no():
     print("no")
 
-    def yes():
-      print("yes")
+def yes():
+  print("yes")
