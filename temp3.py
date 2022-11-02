@@ -4,6 +4,6 @@ def f():
   print("ok bye")
 
 
-def g(x):
-  for j in range(len(j)):
+def g():
+  for j in range(10):
     print("j is %d" %j)
