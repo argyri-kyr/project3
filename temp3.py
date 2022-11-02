@@ -11,3 +11,6 @@ def g(x):
 
 def h():
   return
+
+def t():
+  print("t")
