@@ -7,3 +7,19 @@ def f():
 def g():
   for j in range(10):
     print("j is %d" %j)
+
+
+def h():
+  return
+
+def t():
+  print("t")
+
+def r():
+    print("r")
+  
+def no():
+    print("no")
+
+def yes():
+  print("yes")
