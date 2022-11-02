@@ -23,3 +23,7 @@ def no():
 
 def yes():
   print("yes")
+ 
+
+def iro();
+priunt("io")
