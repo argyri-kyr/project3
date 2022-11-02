@@ -17,3 +17,6 @@ def t():
 
   def r():
     print("r")
+  
+  def no():
+    print("no")
