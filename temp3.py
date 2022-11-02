@@ -7,3 +7,7 @@ def f():
 def g(x):
   for j in range(len(j)):
     print("j is %d" %j)
+
+
+def h():
+  return
