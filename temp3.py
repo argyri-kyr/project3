@@ -14,3 +14,6 @@ def h():
 
 def t():
   print("t")
+
+  def r():
+    print("r")
