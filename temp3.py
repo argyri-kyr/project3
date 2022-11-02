@@ -20,3 +20,6 @@ def r():
   
 def no():
     print("no")
+
+    def yes():
+      print("yes")
